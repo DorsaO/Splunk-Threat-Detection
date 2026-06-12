@@ -49,6 +49,6 @@ separate source with no associated failures.
 ---
 
 ## Screenshots
-![Brute Force Detection](../screenshots/windows_brute_force_detection.png)
-![Successful Logon Types](../screenshots/administrator_successful_logon_types.png)
-![Source IP Analysis](../screenshots/brute_force_source_ip_analysis.png)
+![Brute Force Detection](windows_brute_force_detection.png)
+![Successful Logon Types](administrator_successful_logon_types.png)
+![Source IP Analysis](brute_force_source_ip_analysis.png)
