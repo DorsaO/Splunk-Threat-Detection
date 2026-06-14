@@ -13,8 +13,8 @@ findings, and screenshots.
 
 | Detection | Log Source | MITRE ATT&CK | Status |
 |---|---|---|---|
-| [Windows Brute Force](./detections/windows-brute-force/detection.md) | WinEventLog | T1110 | ✅ Complete |
-| [Web Brute Force](./detections/web-brute-force/detection.md) | Stream:HTTP | T1110 | 🔄 In Progress |
+| [windows-brute-force](./detections/windows-brute-force/detection.md) | WinEventLog | T1110 | ✅ Complete |
+| [Web-Application-Brute-Force](./detections/web-brute-force/detection.md) | Stream:HTTP | T1110 | ✅ Complete |
 
 ---
 
