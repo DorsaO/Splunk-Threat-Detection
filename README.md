@@ -15,6 +15,7 @@ findings, and screenshots.
 |---|---|---|---|
 | [windows-brute-force](./detections/windows-brute-force/detection.md) | WinEventLog | T1110 | ✅ Complete |
 | [Web-Application-Brute-Force](./detections/web-brute-force/detection.md) | Stream:HTTP | T1110 | ✅ Complete |
+| [C2 Beaconing Investigation](./detections/c2-beaconing-investigation/detection.md) | stream:http, suricata | T1071, T1190 | ✅ Complete |
 
 ---
 
