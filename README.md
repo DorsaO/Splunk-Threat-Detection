@@ -13,10 +13,10 @@ findings, and screenshots.
 
 | Detection | Log Source | MITRE ATT&CK | Status |
 |---|---|---|---|
-| [windows-brute-force](./detections/windows-brute-force/detection.md) | WinEventLog | T1110 | ✅ Complete |
-| [Web-Application-Brute-Force](./detections/web-brute-force/detection.md) | Stream:HTTP | T1110 | ✅ Complete |
-| [C2 Beaconing Investigation](./detections/c2-beaconing-investigation/detection.md) | stream:http, suricata | T1071, T1190 | ✅ Complete |
-
+| [windows-brute-force](./detections/windows-brute-force/README.md) | WinEventLog | T1110 | ✅ Complete |
+| [Web-Application-Brute-Force](./detections/web-brute-force/README.md) | Stream:HTTP | T1110 | ✅ Complete |
+| [C2 Beaconing Investigation](./detections/c2-beaconing-investigation/README.md) | stream:http, suricata | T1071, T1190 | ✅ Complete |
+| [data-exfiltration-investigation](./detections/data-exfiltration-investigation/README.md) | stream:http, suricata, stream:dns| T1041 | 🔍 Inconclusive |
 ---
 
 ## Dataset
